@@ -6,6 +6,7 @@
   "configurations": [
     {
       "type": "node",
+      "trace": true,
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": [
